@@ -19,11 +19,11 @@ Circuit course project (Semester 3).
 
 ## Circuit Diagram (Single-phase Overvoltage)
 
-![Overvoltage Detector](Overvoltage-Unbalance-Detector/Images/overvoltage_circuit.png)
+![Overvoltage Detector](Images/overvoltage_circuit.png)
 
 ## Circuit Diagram (Three-phase Unbalance)
 
-![Unbalance Detector](Overvoltage-Unbalance-Detector/Images/unbalance_circuit.png)
+![Unbalance Detector](Images/unbalance_circuit.png)
 
 
 ## Contributors
