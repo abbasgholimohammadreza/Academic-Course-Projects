@@ -1,6 +1,7 @@
 # Overvoltage & Unbalance Detection Circuit
 
 Circuit course project (Semester 3).
+This project designs a protection circuit to detect overvoltage and voltage imbalance in power systems.
 
 ## ✅ Single-phase Overvoltage Detection
 - Voltage divider for safe scaling
@@ -25,6 +26,11 @@ Circuit course project (Semester 3).
 
 ![Unbalance Detector](Images/unbalance_circuit.png)
 
+## Files
+- `Report/`: Full project documentation (PDF, Persian)
+- `Multisim-Files/`: NI Multisim simulation files (.ms14)
+- `Images/`: Circuit diagrams used in this README
+- `Project-Statement/`: Project requirements and statement document
 
 ## Contributors
 This was a group project developed for the Circuit Course.
