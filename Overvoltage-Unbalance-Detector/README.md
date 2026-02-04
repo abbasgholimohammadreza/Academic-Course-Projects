@@ -26,6 +26,11 @@ This project designs a protection circuit to detect overvoltage and voltage imba
 
 ![Unbalance Detector](Images/unbalance_circuit.png)
 
+## Circuit Images
+
+![Circuit Image 1](Images/circuit_image_1.jpg)
+![Circuit Image 1](Images/circuit_image_2.jpg)
+
 ## Files
 - `Report/`: Full project documentation (PDF, Persian)
 - `Multisim-Files/`: NI Multisim simulation files (.ms14)
