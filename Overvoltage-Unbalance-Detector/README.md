@@ -36,4 +36,4 @@ This project designs a protection circuit to detect overvoltage and voltage imba
 This was a group project developed for the Circuit Course.
 
 - Mohammadreza Abbasgholi Doolabi
-- Ali Rezaee
+- Ali Rezaee ([@aoidfjoirt30uore](https://github.com/aoidfjoirt30uore))
